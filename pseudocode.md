@@ -1,4 +1,4 @@
-Seven algorithms to solve 8 puzzle 
+Seven algorithms to solve 8 puzzle ss
 --------------------------
 ####Features
  * `FunctionDictionary` adopted `std::unorded_map` i.e. a hash table as it's container. Due to no mutation at run time, it guarantees the best lookup performance.
